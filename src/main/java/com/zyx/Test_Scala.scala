@@ -53,12 +53,12 @@ object Test_Scala {
        println(e(i))
      }*/
 
-    /*for(f <- 1 to 9; g <- 1 to f){
+    for (f <- 1 to 9; g <- 1 to f) {
       print(s"${f}*${g}="+f*g+"\t")
       if(f==g){
         println()
       }
-    }*/
+    }
 
     /*
     //for和if的使用
